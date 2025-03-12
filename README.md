@@ -26,8 +26,7 @@ Perfect for data analysts, business strategists, and enthusiasts looking to harn
 
 ## LIBRARIES USED📗
 
-
-This project leverages the power of Python for data manipulation, analysis, and visualization. Key libraries include:  
+Key libraries include:  
 
 - **Pandas:** For data cleaning, transformation, and exploratory analysis.  
 - **NumPy:** For numerical operations and efficient handling of arrays.  
@@ -35,4 +34,5 @@ This project leverages the power of Python for data manipulation, analysis, and 
 - **Seaborn:** For advanced, aesthetically pleasing statistical visualizations.  
 - **Plotly:** For interactive and dynamic visualizations, such as geographical heatmaps.  
 
-These libraries work together to provide a robust framework for performing detailed analysis and generating insights from sales data.
+ These libraries work together to provide a robust framework for performing detailed analysis and generating insights from 
+ sales data.
