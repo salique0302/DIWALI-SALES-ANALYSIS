@@ -36,3 +36,5 @@ Key libraries include:
 
  These libraries work together to provide a robust framework for performing detailed analysis and generating insights from 
  sales data.
+
+ ## CODE SNIPPET 📷
