@@ -10,8 +10,8 @@ This project analyzes Diwali sales data to uncover customer behavior, product pe
 3.Retail Managers: To strategize marketing and sales campaigns based on data-driven insights.
 
 
-## KEY FEATURES
-### Key Features
+## KEY FEATURES 🔑
+
 
 - **Comprehensive Data Cleaning:** Handles missing values, ensures data consistency, and transforms raw data into an analysis-ready format.  
 - **Descriptive Analysis:** Gain insights into sales performance, customer demographics, and product preferences.  
@@ -24,7 +24,7 @@ This project analyzes Diwali sales data to uncover customer behavior, product pe
 Perfect for data analysts, business strategists, and enthusiasts looking to harness the power of sales data for impactful results!
 
 
-## LIBRARIES USED
+## LIBRARIES USED📗
 
 
 This project leverages the power of Python for data manipulation, analysis, and visualization. Key libraries include:  
